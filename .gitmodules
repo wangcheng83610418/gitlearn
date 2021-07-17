@@ -1,0 +1,3 @@
+[submodule "gitchild"]
+	path = gitchild
+	url = git@github.com:wangcheng83610418/gitchild.git
